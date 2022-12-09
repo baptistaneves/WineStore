@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "LkvTo83uXWhfvO20NJLVNzq3sYI8ZPOPc95pG+VYiqp5YeTZ06cQedGxTw0+eiLAk9WjW96Zo8nxWu/aU3Jlag==",
+  "success": true,
+  "projectFilePath": "D:\\Projectos\\Web\\.net\\courses\\WineStore\\src\\WineStore.Pagamentos.AntiCorruption\\WineStore.Pagamentos.AntiCorruption.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Baptista Neves\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
+    "C:\\Users\\Baptista Neves\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\Baptista Neves\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

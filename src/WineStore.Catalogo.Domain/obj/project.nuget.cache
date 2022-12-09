@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "XnzxeuztNuLQTWS3JouPADTup48fo4v/kpxJh/j0Q3lTy6HiuuZ+QTyEE9YjH4GSPvZ5qCbTmOBIQMRecoU97Q==",
+  "success": true,
+  "projectFilePath": "D:\\Projectos\\Web\\.net\\courses\\WineStore\\src\\WineStore.Catalogo.Domain\\WineStore.Catalogo.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Baptista Neves\\.nuget\\packages\\fluentvalidation\\11.2.2\\fluentvalidation.11.2.2.nupkg.sha512",
+    "C:\\Users\\Baptista Neves\\.nuget\\packages\\mediatr\\11.0.0\\mediatr.11.0.0.nupkg.sha512",
+    "C:\\Users\\Baptista Neves\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

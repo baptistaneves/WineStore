@@ -1,0 +1,15 @@
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Vendas.Domain\bin\Debug\net6.0\WineStore.Vendas.Domain.deps.json
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Vendas.Domain\bin\Debug\net6.0\WineStore.Vendas.Domain.dll
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Vendas.Domain\bin\Debug\net6.0\WineStore.Vendas.Domain.pdb
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Vendas.Domain\bin\Debug\net6.0\WineStore.Core.dll
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Vendas.Domain\bin\Debug\net6.0\WineStore.Core.pdb
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Vendas.Domain\obj\Debug\net6.0\WineStore.Vendas.Domain.csproj.AssemblyReference.cache
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Vendas.Domain\obj\Debug\net6.0\WineStore.Vendas.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Vendas.Domain\obj\Debug\net6.0\WineStore.Vendas.Domain.AssemblyInfoInputs.cache
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Vendas.Domain\obj\Debug\net6.0\WineStore.Vendas.Domain.AssemblyInfo.cs
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Vendas.Domain\obj\Debug\net6.0\WineStore.Vendas.Domain.csproj.CoreCompileInputs.cache
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Vendas.Domain\obj\Debug\net6.0\WineStore.Vendas.Domain.csproj.CopyComplete
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Vendas.Domain\obj\Debug\net6.0\WineStore.Vendas.Domain.dll
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Vendas.Domain\obj\Debug\net6.0\refint\WineStore.Vendas.Domain.dll
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Vendas.Domain\obj\Debug\net6.0\WineStore.Vendas.Domain.pdb
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Vendas.Domain\obj\Debug\net6.0\ref\WineStore.Vendas.Domain.dll

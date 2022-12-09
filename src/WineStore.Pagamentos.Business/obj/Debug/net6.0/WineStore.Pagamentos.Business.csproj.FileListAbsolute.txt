@@ -1,0 +1,15 @@
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Pagamentos.Business\bin\Debug\net6.0\WineStore.Pagamentos.Business.deps.json
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Pagamentos.Business\bin\Debug\net6.0\WineStore.Pagamentos.Business.dll
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Pagamentos.Business\bin\Debug\net6.0\WineStore.Pagamentos.Business.pdb
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Pagamentos.Business\obj\Debug\net6.0\WineStore.Pagamentos.Business.csproj.AssemblyReference.cache
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Pagamentos.Business\obj\Debug\net6.0\WineStore.Pagamentos.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Pagamentos.Business\obj\Debug\net6.0\WineStore.Pagamentos.Business.AssemblyInfoInputs.cache
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Pagamentos.Business\obj\Debug\net6.0\WineStore.Pagamentos.Business.AssemblyInfo.cs
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Pagamentos.Business\obj\Debug\net6.0\WineStore.Pagamentos.Business.csproj.CoreCompileInputs.cache
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Pagamentos.Business\obj\Debug\net6.0\WineStore.Pagamentos.Business.dll
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Pagamentos.Business\obj\Debug\net6.0\refint\WineStore.Pagamentos.Business.dll
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Pagamentos.Business\obj\Debug\net6.0\WineStore.Pagamentos.Business.pdb
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Pagamentos.Business\obj\Debug\net6.0\ref\WineStore.Pagamentos.Business.dll
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Pagamentos.Business\bin\Debug\net6.0\WineStore.Core.dll
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Pagamentos.Business\bin\Debug\net6.0\WineStore.Core.pdb
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Pagamentos.Business\obj\Debug\net6.0\WineStore.Pagamentos.Business.csproj.CopyComplete

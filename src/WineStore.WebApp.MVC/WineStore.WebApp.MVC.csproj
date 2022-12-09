@@ -1,0 +1,39 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UserSecretsId>aspnet-WineStore.WebApp.MVC-9BD2378D-A4E6-4A25-A380-19FE1762ED81</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="6.0.10" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="6.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.10">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\WineStore.Catalogo.Application\WineStore.Catalogo.Application.csproj" />
+    <ProjectReference Include="..\WineStore.Catalogo.Data\WineStore.Catalogo.Data.csproj" />
+    <ProjectReference Include="..\WineStore.Catalogo.Domain\WineStore.Catalogo.Domain.csproj" />
+    <ProjectReference Include="..\WineStore.Core\WineStore.Core.csproj" />
+    <ProjectReference Include="..\WineStore.Pagamentos.AntiCorruption\WineStore.Pagamentos.AntiCorruption.csproj" />
+    <ProjectReference Include="..\WineStore.Pagamentos.Business\WineStore.Pagamentos.Business.csproj" />
+    <ProjectReference Include="..\WineStore.Pagamentos.Data\WineStore.Pagamentos.Data.csproj" />
+    <ProjectReference Include="..\WineStore.Vendas.Application\WineStore.Vendas.Application.csproj" />
+    <ProjectReference Include="..\WineStore.Vendas.Data\WineStore.Vendas.Data.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\Images\" />
+  </ItemGroup>
+
+</Project>

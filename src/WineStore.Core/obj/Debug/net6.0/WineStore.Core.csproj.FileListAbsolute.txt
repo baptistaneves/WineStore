@@ -1,0 +1,12 @@
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Core\bin\Debug\net6.0\WineStore.Core.deps.json
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Core\bin\Debug\net6.0\WineStore.Core.dll
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Core\bin\Debug\net6.0\WineStore.Core.pdb
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Core\obj\Debug\net6.0\WineStore.Core.csproj.AssemblyReference.cache
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Core\obj\Debug\net6.0\WineStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Core\obj\Debug\net6.0\WineStore.Core.AssemblyInfoInputs.cache
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Core\obj\Debug\net6.0\WineStore.Core.AssemblyInfo.cs
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Core\obj\Debug\net6.0\WineStore.Core.csproj.CoreCompileInputs.cache
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Core\obj\Debug\net6.0\WineStore.Core.dll
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Core\obj\Debug\net6.0\refint\WineStore.Core.dll
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Core\obj\Debug\net6.0\WineStore.Core.pdb
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Core\obj\Debug\net6.0\ref\WineStore.Core.dll

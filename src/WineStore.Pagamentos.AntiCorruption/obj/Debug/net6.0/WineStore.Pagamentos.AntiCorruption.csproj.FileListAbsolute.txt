@@ -1,0 +1,17 @@
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Pagamentos.AntiCorruption\bin\Debug\net6.0\WineStore.Pagamentos.AntiCorruption.deps.json
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Pagamentos.AntiCorruption\bin\Debug\net6.0\WineStore.Pagamentos.AntiCorruption.dll
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Pagamentos.AntiCorruption\bin\Debug\net6.0\WineStore.Pagamentos.AntiCorruption.pdb
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Pagamentos.AntiCorruption\obj\Debug\net6.0\WineStore.Pagamentos.AntiCorruption.csproj.AssemblyReference.cache
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Pagamentos.AntiCorruption\obj\Debug\net6.0\WineStore.Pagamentos.AntiCorruption.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Pagamentos.AntiCorruption\obj\Debug\net6.0\WineStore.Pagamentos.AntiCorruption.AssemblyInfoInputs.cache
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Pagamentos.AntiCorruption\obj\Debug\net6.0\WineStore.Pagamentos.AntiCorruption.AssemblyInfo.cs
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Pagamentos.AntiCorruption\obj\Debug\net6.0\WineStore.Pagamentos.AntiCorruption.csproj.CoreCompileInputs.cache
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Pagamentos.AntiCorruption\obj\Debug\net6.0\WineStore.Pagamentos.AntiCorruption.dll
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Pagamentos.AntiCorruption\obj\Debug\net6.0\refint\WineStore.Pagamentos.AntiCorruption.dll
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Pagamentos.AntiCorruption\obj\Debug\net6.0\WineStore.Pagamentos.AntiCorruption.pdb
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Pagamentos.AntiCorruption\obj\Debug\net6.0\ref\WineStore.Pagamentos.AntiCorruption.dll
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Pagamentos.AntiCorruption\bin\Debug\net6.0\WineStore.Core.dll
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Pagamentos.AntiCorruption\bin\Debug\net6.0\WineStore.Pagamentos.Business.dll
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Pagamentos.AntiCorruption\bin\Debug\net6.0\WineStore.Pagamentos.Business.pdb
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Pagamentos.AntiCorruption\bin\Debug\net6.0\WineStore.Core.pdb
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Pagamentos.AntiCorruption\obj\Debug\net6.0\WineStore.Pagamentos.AntiCorruption.csproj.CopyComplete

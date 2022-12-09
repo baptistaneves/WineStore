@@ -1,0 +1,17 @@
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Vendas.Application\bin\Debug\net6.0\WineStore.Vendas.Application.deps.json
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Vendas.Application\bin\Debug\net6.0\WineStore.Vendas.Application.dll
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Vendas.Application\bin\Debug\net6.0\WineStore.Vendas.Application.pdb
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Vendas.Application\bin\Debug\net6.0\WineStore.Core.dll
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Vendas.Application\bin\Debug\net6.0\WineStore.Vendas.Domain.dll
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Vendas.Application\bin\Debug\net6.0\WineStore.Core.pdb
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Vendas.Application\bin\Debug\net6.0\WineStore.Vendas.Domain.pdb
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Vendas.Application\obj\Debug\net6.0\WineStore.Vendas.Application.csproj.AssemblyReference.cache
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Vendas.Application\obj\Debug\net6.0\WineStore.Vendas.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Vendas.Application\obj\Debug\net6.0\WineStore.Vendas.Application.AssemblyInfoInputs.cache
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Vendas.Application\obj\Debug\net6.0\WineStore.Vendas.Application.AssemblyInfo.cs
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Vendas.Application\obj\Debug\net6.0\WineStore.Vendas.Application.csproj.CoreCompileInputs.cache
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Vendas.Application\obj\Debug\net6.0\WineStore.Vendas.Application.csproj.CopyComplete
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Vendas.Application\obj\Debug\net6.0\WineStore.Vendas.Application.dll
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Vendas.Application\obj\Debug\net6.0\refint\WineStore.Vendas.Application.dll
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Vendas.Application\obj\Debug\net6.0\WineStore.Vendas.Application.pdb
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Vendas.Application\obj\Debug\net6.0\ref\WineStore.Vendas.Application.dll

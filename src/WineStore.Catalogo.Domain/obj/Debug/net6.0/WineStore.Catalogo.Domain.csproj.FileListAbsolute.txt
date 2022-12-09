@@ -1,0 +1,15 @@
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Catalogo.Domain\bin\Debug\net6.0\WineStore.Catalogo.Domain.deps.json
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Catalogo.Domain\bin\Debug\net6.0\WineStore.Catalogo.Domain.dll
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Catalogo.Domain\bin\Debug\net6.0\WineStore.Catalogo.Domain.pdb
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Catalogo.Domain\bin\Debug\net6.0\WineStore.Core.dll
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Catalogo.Domain\bin\Debug\net6.0\WineStore.Core.pdb
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Catalogo.Domain\obj\Debug\net6.0\WineStore.Catalogo.Domain.csproj.AssemblyReference.cache
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Catalogo.Domain\obj\Debug\net6.0\WineStore.Catalogo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Catalogo.Domain\obj\Debug\net6.0\WineStore.Catalogo.Domain.AssemblyInfoInputs.cache
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Catalogo.Domain\obj\Debug\net6.0\WineStore.Catalogo.Domain.AssemblyInfo.cs
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Catalogo.Domain\obj\Debug\net6.0\WineStore.Catalogo.Domain.csproj.CoreCompileInputs.cache
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Catalogo.Domain\obj\Debug\net6.0\WineStore.Catalogo.Domain.csproj.CopyComplete
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Catalogo.Domain\obj\Debug\net6.0\WineStore.Catalogo.Domain.dll
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Catalogo.Domain\obj\Debug\net6.0\refint\WineStore.Catalogo.Domain.dll
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Catalogo.Domain\obj\Debug\net6.0\WineStore.Catalogo.Domain.pdb
+D:\Projectos\Web\.net\courses\WineStore\src\WineStore.Catalogo.Domain\obj\Debug\net6.0\ref\WineStore.Catalogo.Domain.dll
